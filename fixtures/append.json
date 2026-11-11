@@ -1,0 +1,19 @@
+{
+  "commit_id": "append-a",
+  "base_snapshot": "17",
+  "mode": "append",
+  "read_files": [],
+  "read_partitions": [],
+  "add_files": [
+    {
+      "file_id": "c",
+      "path": "data/c.jsonl",
+      "partition": {
+        "park": "合成甲区",
+        "day": "2026-11-10"
+      },
+      "row_count": 1
+    }
+  ],
+  "replace_files": []
+}

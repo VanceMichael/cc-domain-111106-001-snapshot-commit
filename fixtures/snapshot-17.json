@@ -1,0 +1,24 @@
+{
+  "snapshot_id": "17",
+  "parent": "16",
+  "files": [
+    {
+      "file_id": "a",
+      "path": "data/a.jsonl",
+      "partition": {
+        "park": "合成甲区",
+        "day": "2026-11-10"
+      },
+      "row_count": 2
+    },
+    {
+      "file_id": "b",
+      "path": "data/b.jsonl",
+      "partition": {
+        "park": "合成乙区",
+        "day": "2026-11-10"
+      },
+      "row_count": 1
+    }
+  ]
+}

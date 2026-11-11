@@ -1,0 +1,28 @@
+{
+  "commit_id": "replace-a",
+  "base_snapshot": "17",
+  "mode": "replace",
+  "read_files": [
+    "a"
+  ],
+  "read_partitions": [
+    {
+      "park": "合成甲区",
+      "day": "2026-11-10"
+    }
+  ],
+  "replace_files": [
+    "a"
+  ],
+  "add_files": [
+    {
+      "file_id": "d",
+      "path": "data/d.jsonl",
+      "partition": {
+        "park": "合成甲区",
+        "day": "2026-11-10"
+      },
+      "row_count": 2
+    }
+  ]
+}

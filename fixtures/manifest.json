@@ -1,0 +1,47 @@
+[
+  {
+    "file": "snapshot-17.json",
+    "bytes": 413,
+    "sha256": "c1642b44dd377ca59aea20378e1fa1457f0d3487970328423174f2d4b44b2a96"
+  },
+  {
+    "file": "snapshot-16.json",
+    "bytes": 59,
+    "sha256": "6a16eed9171f102ed73be66af61a30c06a315188cda7c6bc2a41cf1bca1c5471"
+  },
+  {
+    "file": "append.json",
+    "bytes": 340,
+    "sha256": "eb215943816f30d48530a743ac5d5e5ecd95e94279540c3c9d7a1252da844223"
+  },
+  {
+    "file": "replace.json",
+    "bytes": 435,
+    "sha256": "f4a23d33f6e48a4218eb0fdb523128448cc32d762823c50c8166f6c43b08a639"
+  },
+  {
+    "file": "current.json",
+    "bytes": 42,
+    "sha256": "58a32d3ed40ab05f63016e5dc5be7bb1645e5141c54b651fffc4b8c78e487a10"
+  },
+  {
+    "file": "data/a.jsonl",
+    "bytes": 66,
+    "sha256": "3859e44c5d765ec4098c9ff2d1d86416eddf3fec720674859390bbc620688f15"
+  },
+  {
+    "file": "data/b.jsonl",
+    "bytes": 32,
+    "sha256": "aeffd3cf4fa7b1ce82858b6763a60eca579fd2d7b98e87fc5d4c3652d0775cc1"
+  },
+  {
+    "file": "data/c.jsonl",
+    "bytes": 32,
+    "sha256": "50a431fc563096713e1105db93753525d761ba809946163c64160ebb7ace2e16"
+  },
+  {
+    "file": "data/d.jsonl",
+    "bytes": 66,
+    "sha256": "1c435a8203023f8f11c4b81a8d24c66e5edf3639fa9b34befcc06ac101ab27f2"
+  }
+]
